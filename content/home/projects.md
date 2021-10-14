@@ -27,10 +27,51 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: "Animal electrophysiology"
+    tag: "Animal ephys"
+  - name: "Benchtop"
+    tag: "Benchtop"
+  - name: "Behaviour"
+    tag: "Behaviour"
+  - name: "Calcium Imaging"
+    tag: "Calcium Imaging"
+  - name: "Computers"
+    tag: "Computers"
+  - name: "Computer Clusters"
+    tag: "Computer clusters"
+  - name: "Data Analysis"
+    tag: "Data analysis"
+  - name: "Data Repositories"
+    tag: "Database"
+  - name: "Electric Stimulation"
+    tag: "Electric"
+  - name: "Fluorescence"
+    tag: "Fluorescence"
+  - name: "Hardware"
+    tag: "Hardware"  
+  - name: "Human Neuroscience"
+    tag: "Human Neuroscience"
+  - name: "Human electrophysiology"
+    tag: "Human ephys"
+  - name: "Microscopes"
+    tag: "Microscope"
+  - name: "Microscopes software"
+    tag: "Microscopes software"
+  - name: "Optogenetics"
+    tag: "Optogenetics"
+  - name: "Prosthetics"
+    tag: "Prosthetics"
+  - name: "Simulations"
+    tag: "Simulation"
+  - name: "Software"
+    tag: "Software"
+  - name: "Tutorials and learning portals"
+    tag: "Learning"
+  - name: "World Wide Series Seminars"
+    tag: "worldwideseries"
+  - name: "Other"
+    tag: "Other"
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

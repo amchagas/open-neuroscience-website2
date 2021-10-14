@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Open Neuroscience
+name: Gaspar Herrera
 
 # Username (this should match the folder name)
 authors:
-- admin
+- gaspar-herrera
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role:
+role: Gaspar Herrera
 
 # Organizations/Affiliations
 #organizations:
@@ -28,9 +28,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:openneuroscience@gmail.com".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/openneurosci
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/NeuroMLA
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -44,12 +44,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "openeuroscience@gmail.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Creator
+user_groups:
+- Collaborators
 ---
 
-We are network of collaborators trying to keep track and curate interesting open source projects related to neurosciences. If you have a project that you’d like to see listed here or if you know of a project that should be listed, drop us a line, via E-mail, or Twitter.

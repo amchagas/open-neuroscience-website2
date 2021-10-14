@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Open Neuroscience
+name: Matias Andina
 
 # Username (this should match the folder name)
 authors:
-- admin
+- matias-andina
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:
+role: Matias Andina
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ role:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio
+bio: I continuously find myself mesmerized by the complexity of life. I finished my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc, I continued doing neuroscience at MIT. I am currently doing a PhD in Neuroscience at Tufts University.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -30,13 +30,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:openneuroscience@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/openneurosci
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/NeuroMLA
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PnTVdPAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/open-neuroscience
+  link: https://github.com/matiasandina
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -44,12 +44,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "openeuroscience@gmail.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Creator
+user_groups:
+- Current
 ---
 
-We are network of collaborators trying to keep track and curate interesting open source projects related to neurosciences. If you have a project that you’d like to see listed here or if you know of a project that should be listed, drop us a line, via E-mail, or Twitter.
+I continuously find myself mesmerized by the complexity of life. I finished my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc, I continued doing neuroscience at MIT. I am currently doing a PhD in Neuroscience at Tufts University.
