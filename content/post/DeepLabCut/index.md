@@ -5,6 +5,14 @@ authors: ['admin']
 layout: post
 categories: ['Software','Behaviour','Data Analysis','Tutorials & learning portals']
 tags: ['Software','Behaviour','Data Analysis','Tutorials & learning portals']
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**GitHub**](https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1590444465547-SHXODUII311HEE407IL6/ke17ZwdGBToddI8pDm48kE4VnnB9_j2k1VP236ADqAFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQg9Vf0owGyf3dhfDKy8SxMujaKmp2B54Sb3VS1rO76Whq-cUhHVuKFlGUXsU9tJk/ezgif.com-video-to-gif.gif?format=750w")'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 ---
 
 
