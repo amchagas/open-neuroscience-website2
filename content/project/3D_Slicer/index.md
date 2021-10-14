@@ -1,10 +1,40 @@
 ---
 title: 3D Slicer
+summary: 3D Slicer is a software for medical image informatics, image processing, and three-dimensional visualization
+tags:
 date: 2020-05-22
-authors: ['admin']
+authors: 
+- Miguel Fernandes
 layout: post
 categories: ['Software','Data Analysis']
-tags: ['Software','Data Analysis']
+tags:
+- Software
+- 'Data Analysis'
+
+# Optional external URL for project (replaces project detail page).
+external_link: "https://github.com/Slicer/Slicer"
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+
 ---
 3D Slicer is a software for medical image informatics, image processing, and three-dimensional visualization. It’s extremely powerful and versatile with plenty of different options. It is a great tool for volume rendering, registration, interactive segmentation of images and even offers the possibility of running Python scripts thought an embedded Python interpreter.
 ## Project Author(s)
