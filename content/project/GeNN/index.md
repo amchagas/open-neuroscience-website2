@@ -2,7 +2,7 @@
 title: 'GeNN'
 date: 2021-10-26
 authors: ['admin']
-layout: post
+layout: project
 categories: ['Software','Simulations','Computational Neuroscience']
 tags: ['Software','Simulations','Computational Neuroscience']
 ---

@@ -5,25 +5,33 @@ tags:
 date: 2020-05-22
 authors: 
 - Miguel Fernandes
-layout: post
+layout: project
 categories: ['Software','Data Analysis']
 tags:
 - Software
 - 'Data Analysis'
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/Slicer/Slicer"
-
+external_link: ""
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-#  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: ""
+  focal_point: "Smart"
+  preview_only: false
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-url_code: ""
+
+- icon: twitter
+  icon_pack: fab
+  name: Code
+  url_code: https://github.com/Slicer/Slicer
+
 url_pdf: ""
 url_slides: ""
 url_video: ""
