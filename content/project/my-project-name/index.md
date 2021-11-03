@@ -3,7 +3,7 @@
 
 title: "My Project Name"
 summary: "this is where my summary is"
-authors: [Andre]
+authors: []
 tags: []
 categories: []
 date: 2021-11-03T16:30:32Z
